@@ -1,9 +1,9 @@
 
-<img width="1000" height="1000" alt="High-Resolution-Color-Logo" src="https://github.com/user-attachments/assets/5e4182b7-de3e-4138-bd4e-736af2ec25be" />
+<img width="1000" height="1000" alt="High-Resolution-Color-Logo" src="https://github.com/user-attachments/assets/737a345b-5502-4bab-bed1-ae97a8ea6249" />
 
+---
 
-# Rastaban AI
-*From the constellation Draco — the dragon that never sleeps.*
+**From the constellation Draco — the dragon that never sleeps.**
 
 Rastaban (β Draconis) is a giant star in the head of Draco, the celestial dragon. Ancient navigators used Draco to find true north. We think AI should do the same — guide you without replacing your judgment.
 
@@ -33,13 +33,20 @@ Our code and data live on **Hetzner** — German-hosted, GDPR-protected, Double 
 
 ---
 
-## In the Dragon's Lair, Everything is Protected
-- 🐉 Your data never leaves your device
-- 🐉 No surveillance. No tracking. No ads.
-- 🐉 Open source models. Transparent by design.
-- 🐉 AES-256 encrypted infrastructure
-- 🐉 GDPR-protected. German hosted.
+-  <img width="22" height="22" alt="Website-Favicon-Color" src="https://github.com/user-attachments/assets/ec314c5c-68e1-4064-8c5a-16d0610b9cb4" /> **Your data never leaves your device**
+-  <img width="22" height="22" alt="Website-Favicon-Color" src="https://github.com/user-attachments/assets/ec314c5c-68e1-4064-8c5a-16d0610b9cb4" /> **No surveillance. No tracking. No ads.**
+-  <img width="22" height="22" alt="Website-Favicon-Color" src="https://github.com/user-attachments/assets/ec314c5c-68e1-4064-8c5a-16d0610b9cb4" /> **Open source models. Transparent by design.**
+-  <img width="22" height="22" alt="Website-Favicon-Color" src="https://github.com/user-attachments/assets/ec314c5c-68e1-4064-8c5a-16d0610b9cb4" /> **AES-256 encrypted infrastructure**
+-  <img width="22" height="22" alt="Website-Favicon-Color" src="https://github.com/user-attachments/assets/ec314c5c-68e1-4064-8c5a-16d0610b9cb4" /> **GDPR-protected. German hosted.**
 
 ---
 
-*Building something different. Quietly. Protected by the dragon.* 🐉
+<div align="center">
+<img width="128" height="128" alt="Website-Favicon-Color" src="https://github.com/user-attachments/assets/ec314c5c-68e1-4064-8c5a-16d0610b9cb4" />
+
+## *In the Dragon's Lair, Everything is Protected*
+</div>
+
+---
+
+
