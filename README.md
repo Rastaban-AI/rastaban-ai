@@ -1,3 +1,7 @@
+
+<img width="1000" height="1000" alt="High-Resolution-Color-Logo" src="https://github.com/user-attachments/assets/5e4182b7-de3e-4138-bd4e-736af2ec25be" />
+
+
 # Rastaban AI
 *From the constellation Draco — the dragon that never sleeps.*
 
