@@ -21,8 +21,10 @@ The dragon in the sky has guided navigators for centuries. Persistent. Reliable.
 ---
 
 ## Infrastructure
-Our code and data live on **Hetzner** — German-hosted, GDPR-protected, AES-256 encrypted infrastructure. AES-256 is the gold standard in encryption, trusted by banks, governments, and security professionals worldwide. Because privacy isn't just a feature, it's an architecture decision.
+Our code and data live on **Hetzner** — German-hosted, GDPR-protected, Double AES-256 encrypted infrastructure. AES-256 is the gold standard in encryption, trusted by banks, governments, and security professionals worldwide. Because privacy isn't just a feature, it's an architecture decision.
 
+---
+## With double encryption ... "Your keys always stay in your pocket."
 ---
 
 ## In the Dragon's Lair, Everything is Protected
