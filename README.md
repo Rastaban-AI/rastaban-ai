@@ -44,7 +44,7 @@ Our code and data live on **Hetzner** — GDPR-protected, AES-256 encrypted infr
 <div align="center">
 <img width="128" height="128" alt="Website-Favicon-Color" src="https://github.com/user-attachments/assets/ec314c5c-68e1-4064-8c5a-16d0610b9cb4" />
 
-## *In the Dragon's Lair, Everything is Protected*
+## *In the Dragon's Lair — Everything is Protected*
 </div>
 
 ---
