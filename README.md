@@ -28,7 +28,7 @@ The dragon in the sky has guided navigators for centuries. Persistent. Reliable.
 Our code and data live on **Hetzner** — GDPR-protected, AES-256 encrypted infrastructure. Because privacy isn't just a feature, it's an architecture decision.
 
 ---
-## With Double Encryption
+## With End-to-End Encryption
 *"Your keys always stay in your pocket."*
 
 ---
